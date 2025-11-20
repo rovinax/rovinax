@@ -1,5 +1,7 @@
 # Hi there! 👋  I’m Rovina.☀️
 Welcome to my GitHub profile! 
+### Personal Blog
+ - [**My Blog**](https://robinsssson.github.io/)
 
 ### 🌟 About Me  
 - 🎓 **Education**: Aerospace Engineering 
