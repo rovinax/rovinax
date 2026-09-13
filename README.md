@@ -52,8 +52,8 @@ Notes and write-ups live at **[blog.rovina.top](https://blog.rovina.top/)**.
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9" alt="github stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=0B1026&title_color=7DD3FC&text_color=E2E8F0" alt="top languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9" alt="github stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=0B1026&title_color=7DD3FC&text_color=E2E8F0" alt="top languages" />
 </div>
 
 <div align="center">
