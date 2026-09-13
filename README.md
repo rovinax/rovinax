@@ -52,12 +52,24 @@ Notes and write-ups live at **[blog.rovina.top](https://blog.rovina.top/)**.
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9" alt="github stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=0B1026&title_color=7DD3FC&text_color=E2E8F0" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1026&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0&ring_color=0EA5E9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F8FAFC&title_color=0369A1&icon_color=0284C7&text_color=334155&ring_color=0284C7" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=rovinax&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F8FAFC&title_color=0369A1&icon_color=0284C7&text_color=334155&ring_color=0284C7" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=0B1026&title_color=7DD3FC&text_color=E2E8F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=F8FAFC&title_color=0369A1&text_color=334155" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rovinax&layout=compact&langs_count=8&hide_border=true&bg_color=F8FAFC&title_color=0369A1&text_color=334155" alt="top languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rovinax&theme=transparent&hide_border=true&background=0B1026&ring=0EA5E9&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&stroke=123C6B" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rovinax&theme=transparent&hide_border=true&background=0B1026&ring=0EA5E9&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=E2E8F0&dates=94A3B8&stroke=123C6B&card_width=800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rovinax&theme=transparent&hide_border=true&background=F8FAFC&ring=0284C7&fire=0EA5E9&currStreakLabel=0369A1&sideLabels=334155&dates=64748B&stroke=E2E8F0&card_width=800" />
+    <img width="800" src="https://streak-stats.demolab.com/?user=rovinax&theme=transparent&hide_border=true&background=F8FAFC&ring=0284C7&fire=0EA5E9&currStreakLabel=0369A1&sideLabels=334155&dates=64748B&stroke=E2E8F0&card_width=800" alt="streak" />
+  </picture>
 </div>
 
 ---
