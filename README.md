@@ -24,6 +24,8 @@ static constexpr const char* focus[] = { "C++", "Linux" };
 
 Student at Chongqing University (aerospace). I write C++ and spend most of my time on Linux — device drivers, system internals, and the layer between hardware and userspace. Agents and higher-level tooling show up when they help; they are not the default.
 
+Work Experience: Agibot (2026.04-2026.08)
+
 Outside of that: games and music.
 
 ---
